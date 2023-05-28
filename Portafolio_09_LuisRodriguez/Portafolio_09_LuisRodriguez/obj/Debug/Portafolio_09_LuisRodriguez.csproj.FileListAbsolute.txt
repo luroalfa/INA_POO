@@ -1,0 +1,8 @@
+C:\Users\Luis\source\repos\Portafolio_09_LuisRodriguez\Portafolio_09_LuisRodriguez\obj\Debug\Portafolio_09_LuisRodriguez.csproj.AssemblyReference.cache
+C:\Users\Luis\source\repos\Portafolio_09_LuisRodriguez\Portafolio_09_LuisRodriguez\obj\Debug\Portafolio_09_LuisRodriguez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis\source\repos\Portafolio_09_LuisRodriguez\Portafolio_09_LuisRodriguez\obj\Debug\Portafolio_09_LuisRodriguez.csproj.CoreCompileInputs.cache
+C:\Users\Luis\source\repos\Portafolio_09_LuisRodriguez\Portafolio_09_LuisRodriguez\bin\Debug\Portafolio_09_LuisRodriguez.exe.config
+C:\Users\Luis\source\repos\Portafolio_09_LuisRodriguez\Portafolio_09_LuisRodriguez\bin\Debug\Portafolio_09_LuisRodriguez.exe
+C:\Users\Luis\source\repos\Portafolio_09_LuisRodriguez\Portafolio_09_LuisRodriguez\bin\Debug\Portafolio_09_LuisRodriguez.pdb
+C:\Users\Luis\source\repos\Portafolio_09_LuisRodriguez\Portafolio_09_LuisRodriguez\obj\Debug\Portafolio_09_LuisRodriguez.exe
+C:\Users\Luis\source\repos\Portafolio_09_LuisRodriguez\Portafolio_09_LuisRodriguez\obj\Debug\Portafolio_09_LuisRodriguez.pdb
